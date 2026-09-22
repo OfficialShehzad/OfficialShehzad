@@ -2,7 +2,7 @@
 💻Software Engineer based in Trivandrum, Kerala.
 
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,next,react,tailwind,nodejs,express,firebase,mongodb,mysql,postgresql,py,github,git,jenkins,cpp,php,blender,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,next,react,tailwind,nodejs,express,firebase,mongodb,mysql,postgresql,py,fastapi,github,git,jenkins,cpp,php,blender,godot)](https://skillicons.dev)
 
 ### About Me
 ```js

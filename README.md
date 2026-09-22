@@ -13,7 +13,8 @@ const information = {
   gender: "Male",
   hobbies: ["Rubik's cube", "Motorcycling", "Music", "Anime", "Coding"],
   languages: ["English", "Malayalam", "Hindi", "Tamil", "Japanese"],
-  occupation: 'Trivandrum',
+  occupation: 'Softawre Engineer - II',
+  location: 'Kochi, Kerala',
   fun_facts: [
     "Can solve the Rubik's cube under 9 seconds",
     "Can type above 110 wpm",
